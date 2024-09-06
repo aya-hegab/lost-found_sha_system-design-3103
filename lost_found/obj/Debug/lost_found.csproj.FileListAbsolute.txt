@@ -1,0 +1,16 @@
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\bin\Debug\lost_found.exe.config
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\bin\Debug\lost_found.exe
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\bin\Debug\lost_found.pdb
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\obj\Debug\lost_found.csproj.AssemblyReference.cache
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\obj\Debug\lost_found.Form1.resources
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\obj\Debug\lost_found.Form2.resources
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\obj\Debug\lost_found.Form3.resources
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\obj\Debug\lost_found.Form4.resources
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\obj\Debug\lost_found.Form5.resources
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\obj\Debug\lost_found.Form6.resources
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\obj\Debug\lost_found.Form7.resources
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\obj\Debug\lost_found.Properties.Resources.resources
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\obj\Debug\lost_found.csproj.GenerateResource.cache
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\obj\Debug\lost_found.csproj.CoreCompileInputs.cache
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\obj\Debug\lost_found.exe
+D:\winforms\sha_3103_system-design_input-output\lost_found\lost_found\obj\Debug\lost_found.pdb

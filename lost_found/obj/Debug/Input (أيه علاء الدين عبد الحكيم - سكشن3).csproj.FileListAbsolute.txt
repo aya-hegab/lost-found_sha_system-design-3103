@@ -1,0 +1,16 @@
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\bin\Debug\Input (أيه علاء الدين عبد الحكيم - سكشن3).exe.config
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\bin\Debug\Input (أيه علاء الدين عبد الحكيم - سكشن3).exe
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\bin\Debug\Input (أيه علاء الدين عبد الحكيم - سكشن3).pdb
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\obj\Debug\Input (أيه علاء الدين عبد الحكيم - سكشن3).csproj.AssemblyReference.cache
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\obj\Debug\Input__أيه_علاء_الدين_عبد_الحكيم___سكشن3_.Form1.resources
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\obj\Debug\Input__أيه_علاء_الدين_عبد_الحكيم___سكشن3_.Form2.resources
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\obj\Debug\Input__أيه_علاء_الدين_عبد_الحكيم___سكشن3_.Form3.resources
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\obj\Debug\Input__أيه_علاء_الدين_عبد_الحكيم___سكشن3_.Form4.resources
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\obj\Debug\Input__أيه_علاء_الدين_عبد_الحكيم___سكشن3_.Form5.resources
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\obj\Debug\Input__أيه_علاء_الدين_عبد_الحكيم___سكشن3_.Form6.resources
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\obj\Debug\Input__أيه_علاء_الدين_عبد_الحكيم___سكشن3_.Form7.resources
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\obj\Debug\Input__أيه_علاء_الدين_عبد_الحكيم___سكشن3_.Properties.Resources.resources
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\obj\Debug\Input (أيه علاء الدين عبد الحكيم - سكشن3).csproj.GenerateResource.cache
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\obj\Debug\Input (أيه علاء الدين عبد الحكيم - سكشن3).csproj.CoreCompileInputs.cache
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\obj\Debug\Input (أيه علاء الدين عبد الحكيم - سكشن3).exe
+D:\winforms\sha_3103_system-design_input-output\Input (أيه علاء الدين عبد الحكيم - سكشن3)\Input (أيه علاء الدين عبد الحكيم - سكشن3)\obj\Debug\Input (أيه علاء الدين عبد الحكيم - سكشن3).pdb
