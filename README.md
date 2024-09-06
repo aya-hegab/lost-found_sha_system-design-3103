@@ -6,6 +6,11 @@ A winform application for the citizens in Egypt to search for their **lost** ite
 
 For more information check the [Lost Found](https://drive.google.com/file/d/1QFQ7fM30UPLpXCHuo447fVhCUHnhH8dm/view?usp=drive_link) case study.
 
+The Lost Found [Demonstration](https://youtu.be/Qj0SzQ-HhVs).
+
+> [!NOTE]
+> Use these [data](required_data_for_the_interface.txt) to test the app.
+
 ## The System Technical Architecture
 
 ### Will the System use centralized or distributed computing?
@@ -67,8 +72,3 @@ There is no legacy system. This system is the first.
 ## ER Diagram Mapping
 
 ![data_schema.PNG](lost_found/Resources/data_schema.PNG)
-
-### The Lost Found [Demonstration](https://youtu.be/Qj0SzQ-HhVs)
-
-> [!NOTE]
-> Use these [data](required_data_for_the_interface.txt) to test the app.
